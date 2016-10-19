@@ -9,6 +9,10 @@ These materials are released under the `Creative Commons CC0 waiver`_. Neither t
 
 |open-swan|
 
+|DOI|
+
+.. |DOI| image:: https://zenodo.org/badge/68107735.svg
+   :target: https://zenodo.org/badge/latestdoi/68107735
 .. |open-swan| image::  http://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png
     :target: https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/cmsopendata-finland/kurssimateriaali.git
     :alt: Open in SWAN
