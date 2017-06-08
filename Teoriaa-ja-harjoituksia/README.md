@@ -1,4 +1,4 @@
-Suositeltu järjestys:
+Suositeltu järjestys teorian ja harjoituksien läpikäyntiin:
 - Python-perusteet
 - Python-tiiviisti-tehtavilla tai Python-tiiviisti
 - Python-harjoitus
