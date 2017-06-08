@@ -17,3 +17,28 @@ These materials are released under the `Creative Commons CC0 waiver`_. Neither t
     :target: https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/cmsopendata-finland/kurssimateriaali.git
     :alt: Open in SWAN
 .. _`Creative Commons CC0 waiver`: https://creativecommons.org/publicdomain/zero/1.0/
+
+===================
+Kansioiden sisältö
+===================
+--------------
+Jupyter-ohjeet
+--------------
+
+- tutoriaali Jupyter Notebook -sovelluksen käyttöön
+- harjoitus Jupyterin käytöstä
+-----------------------
+Teoriaa-ja-harjoituksia
+-----------------------
+
+- Python-ohjelmointikielen perusteet
+- Pythonin oleellisimpia komentoja
+- harjoitus Pythonin käytöstä
+- ohje CSV-muotoisen datan hakemiseen
+- ohje invariantin massan laskemiseen
+- kaksi ohjetta histogrammien laatimiseen
+-----------
+Esimerkkeja
+-----------
+
+- kolme erilaista esimerkkinotebookia
